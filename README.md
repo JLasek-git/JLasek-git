@@ -27,5 +27,4 @@ Most of the projects in my respository are part of the course I have taken. I on
 - 🤔 I’m looking for help with development of my skills.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: 
-  - LiknedIn: https://www.linkedin.com/in/jakub-lasek/
   - E-mail: jakublasek41@gmail.com
