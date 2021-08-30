@@ -1,6 +1,6 @@
 I am Jakub, Junior Front-end Developer at begining of his path, and this is my Repository.
 
-Most of the projects in my respository are part of the course I have taken. I only implemented som functionalities. In every project README.md you can find description of what functionalities I made.
+Most of the projects in my respository are part of the course I have taken. I only implemented some functionalities. In every project README.md you can find description of what functionalities I made.
 
 - 🔭 I am currently working on two projects, which are oportunity to learn for me. Those projects are:
     - "Industrio" - This project is still in production. It will be Metallurgical company simulator. As player, you will be able to buy new machines, production halls and hire new                   employees which will improve the efficiency of your production. That project is my training of technologies like React, React Router and React Redux. Currently,                   in the process of developing the project, I am aiming in functionalies and less in visual aspects. Project is posted on Free Heroku so you can check it: 
