@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlasek-git&label=Profile%20views&color=0e75b6&style=flat" alt="jlasek-git" /> </p>
 
-- 🔭 I’m currently working on **CryptoCurrencyDashboard**
+- 🔭 I’m currently working on [CryptoCurrencyDashboard](https://github.com/JLasek-git/CryptoCurrencyProject)
 
 - 🌱 I’m currently learning **C# and Tailwind**
 
