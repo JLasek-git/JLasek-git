@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CryptoCurrencyDashboard](https://github.com/JLasek-git/CryptoCurrencyProject)
 
-- 🌱 I’m currently learning **C# and Tailwind**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JLasek-git](https://github.com/JLasek-git)
 
