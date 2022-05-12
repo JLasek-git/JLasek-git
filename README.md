@@ -5,7 +5,7 @@
 
   <h5>Currently I'm working with my team on simple market app: https://rpg-market-test.herokuapp.com/</h5>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JLasek-git](https://github.com/JLasek-git)
 
