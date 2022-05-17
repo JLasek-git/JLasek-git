@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlasek-git&label=Profile%20views&color=0e75b6&style=flat" alt="jlasek-git" /> </p>
 
-  <h5>Currently I'm working with my team on simple market app: https://rpg-market-test.herokuapp.com/</h5>
+  <h5>Currently I'm working with my six people team on market app as Project Manager and leader of Frontend Team: https://rpg-market-test.herokuapp.com/</h5>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Next.js and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JLasek-git](https://github.com/JLasek-git)
 
