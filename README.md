@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [RPGMarket](https://rpg-market-test.herokuapp.com/) and [CryptoCurrencyProject](https://stupendous-taffy-a226ca.netlify.app)
 
-- 🌱 I’m currently learning **Next.js and Web security**
+- 🌱 I’m currently learning **Angular and Web security**
 
 - 📫 How to reach me **jakublasek41@gmail.com**
 
