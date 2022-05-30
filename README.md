@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Frontend Developer from Poland</h3>
 
-- 🔭 I’m currently working on [RPGMarket](https://rpg-market-test.herokuapp.com/) and [CryptoCurrencyProject](https://stupendous-taffy-a226ca.netlify.app)
+- 🔭 I’m currently working on [RPGMarket](https://rpg-market-test.herokuapp.com/) and [CryptoCurrencyProject](https://thriving-tiramisu-121537.netlify.app)
 
 - 🌱 I’m currently learning **Angular and Web security**
 
